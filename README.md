@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="center">Welcome Sir!</h2>
+<h2 align="center">Welcome!</h2>
 
 ###
 
